@@ -1,3 +1,3 @@
-window.onLoad = () => {
+window.onload = () => {
     console.log('load')
 }
