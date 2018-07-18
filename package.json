@@ -6,7 +6,7 @@
   ],
   "version": "1.0.0",
   "description": "{{description}}",
-  "main": "index.js",
+  "index": "index.js",
   "scripts": {
     "test": "test",
     "build": "cross-env NODE_ENV='production' webpack --config build/webpack.pro.config.js --mode production",

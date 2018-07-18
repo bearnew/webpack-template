@@ -1,3 +1,3 @@
 window.onLoad = () => {
-    console.log(load)
+    console.log('load')
 }
